@@ -1,4 +1,6 @@
-## Library and tool for MM3D GARs (Grezzo archives?)
+## Library and tool for MM3D GARs and layout files
+
+Note: as of August 2023 this is not actively maintained. This readme was written 3 years ago and I never finished documenting the layout file formats and the library/tool. Sorry!
 
 ### Requirements
 * Python 3.6+
